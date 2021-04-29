@@ -1,0 +1,713 @@
+[
+    {
+        "ID": 74563,
+        "Price" : 15,
+        "Name": "CocaCola600",
+        "Category": "Refrescos",
+        "Stock": 20,
+        "MaxStock": 50,
+        "MinStock" :10
+    },
+    {
+        "ID": 22186,
+        "Price": 12,
+        "Name": "CocaCola355",
+        "Category": "Refrescos",
+        "Stock": 10,
+        "MaxStock": 30,
+        "MinStock": 4
+    },
+    {
+        "ID": 34487,
+        "Price": 22,
+        "Name": "CocaCola1000",
+        "Category": "Refrescos",
+        "Stock": 7,
+        "MaxStock": 15,
+        "MinStock": 3
+    },
+    {
+        "ID": 54846,
+        "Price": 15,
+        "Name": "CocaColaZero600",
+        "Category": "Refrescos",
+        "Stock": 15,
+        "MaxStock": 25,
+        "MinStock": 8
+    },
+    {
+        "ID": 89109,
+        "Price": 15,
+        "Name": "CocaColaLight600",
+        "Category": "Refrescos",
+        "Stock": 15,
+        "MaxStock": 25,
+        "MinStock": 8
+    },
+    {
+        "ID": 71654,
+        "Price": 15,
+        "Name": "Sprite",
+        "Category": "Refrescos",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 7
+    },
+    {
+        "ID": 59645,
+        "Price": 15,
+        "Name": "Fanta",
+        "Category": "Refrescos",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 7
+    },
+    {
+        "ID": 25755,
+        "Price": 15,
+        "Name": "Fresca",
+        "Category": "Refrescos",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 7
+    },
+     {
+        "ID": 99927,
+        "Price": 15,
+        "Name": "Pepsi600",
+        "Category": "Refrescos",
+        "Stock": 20,
+        "MaxStock" :50,
+        "MinStock" :10
+    },
+    {
+        "ID": 95826,
+        "Price": 12,
+        "Name": "Pepsi355",
+        "Category": "Refrescos",
+        "Stock": 10,
+        "MaxStock": 30,
+        "MinStock": 4
+    },
+    {
+        "ID": 82596,
+        "Price": 22,
+        "Name": "Pepsi1000",
+        "Category": "Refrescos",
+        "Stock": 7,
+        "MaxStock": 15,
+        "MinStock": 3
+    },
+    {
+        "ID": 43024,
+        "Price": 15,
+        "Name": "PepsiLight600",
+        "Category": "Refrescos",
+        "Stock": 15,
+        "MaxStock": 25,
+        "MinStock": 8
+    },
+    {
+        "ID": 33858,
+        "Price": 15,
+        "Name": "PepsiBlack600",
+        "Category": "Refrescos",
+        "Stock": 15,
+        "MaxStock": 25,
+        "MinStock": 8
+    },
+   {
+        "ID": 64643,
+        "Price": 15,
+        "Name": "SevenUp",
+        "Category": "Refrescos",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 7
+    },
+    {
+        "ID": 77629,
+        "Price": 15,
+        "Name": "Mirinda",
+        "Category": "Refrescos",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 7
+    },
+    {
+        "ID": 81359,
+        "Price": 15,
+        "Name": "Toronja",
+        "Category": "Refrescos",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 7
+    },
+    {
+        "ID": 54769,
+        "Price": 13,
+        "Name": "Sabritas",
+        "Category": "Frituras",
+        "Stock": 15,
+        "MaxStock": 30,
+        "MinStock": 7
+    },
+    {
+        "ID": 26416,
+        "Price": 13,
+        "Name": "SabritasAdo",
+        "Category": "Frituras",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 7
+    },
+    {
+        "ID": 42520,
+        "Price": 13,
+        "Name": "SabritasFlamin",
+        "Category": "Frituras",
+        "Stock": 8,
+        "MaxStock": 30,
+        "MinStock": 7
+    },
+   {
+        "ID": 92751,
+        "Price": 13,
+        "Name": "Doritos",
+        "Category": "Frituras",
+        "Stock": 11,
+        "MaxStock": 30,
+        "MinStock": 7
+    },
+    {
+        "ID": 24677,
+        "Price": 13,
+        "Name": "DoritosInco",
+        "Category": "Frituras",
+        "Stock": 10,
+        "MaxStock": 30,
+        "MinStock": 7
+    },
+    {
+        "ID": 75001,
+        "Price": 13,
+        "Name": "DoritosFlamin",
+        "Category": "Frituras",
+        "Stock": 8,
+        "MaxStock": 35,
+        "MinStock": 7
+    },
+   {
+        "ID": 42801,
+        "Price": 13,
+        "Name": "Tostitos",
+        "Category": "Frituras",
+        "Stock": 12,
+        "MaxStock": 30,
+        "MinStock": 7
+    },
+    {
+        "ID": 85216,
+        "Price": 13,
+        "Name": "TostitosFlamin",
+        "Category": "Frituras",
+        "Stock": 8,
+        "MaxStock": 35,
+        "MinStock": 7
+    },
+    {
+        "ID": 45086,
+        "Price": 13,
+        "Name": "TostitosElote",
+        "Category": "Frituras",
+        "Stock": 7,
+        "MaxStock": 15,
+        "MinStock": 7
+    },
+   {
+        "ID": 55287,
+        "Price": 10,
+        "Name": "CheetosPuff",
+        "Category": "Frituras",
+        "Stock": 11,
+        "MaxStock": 30,
+        "MinStock": 7
+    },
+    {
+        "ID": 73869,
+        "Price": 10,
+        "Name": "CheetosTor",
+        "Category": "Frituras",
+        "Stock": 10,
+        "MaxStock": 30,
+        "MinStock": 7
+    },
+    {
+        "ID": 39878,
+        "Price": 10,
+        "Name": "CheetosFlamin",
+        "Category": "Frituras",
+        "Stock": 9,
+        "MaxStock": 40,
+        "MinStock": 7
+    },
+    {
+        "ID": 34600,
+        "Price": 10,
+        "Name": "CheetosBolita",
+        "Category": "Frituras",
+        "Stock": 8,
+        "MaxStock": 35,
+        "MinStock": 7
+    },
+    {
+        "ID": 91687,
+        "Price": 13,
+        "Name": "Rancheritos",
+        "Category": "Frituras",
+        "Stock": 12,
+        "MaxStock": 20,
+        "MinStock": 7
+    },
+    {
+        "ID": 58012,
+        "Price": 13,
+        "Name": "RufflesNormales",
+        "Category": "Frituras",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 7
+    },
+    {
+        "ID": 80151,
+        "Price": 13,
+        "Name": "RufflesQueso",
+        "Category": "Frituras",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 7
+    },
+   {
+        "ID": 93828,
+        "Price": 13,
+        "Name": "RufflesFlamin",
+        "Category": "Frituras",
+        "Stock": 15,
+        "MaxStock": 30,
+        "MinStock": 7
+    },
+    {
+        "ID": 26282,
+        "Price": 15,
+        "Name": "Chips",
+        "Category": "Frituras",
+        "Stock": 10,
+        "MaxStock": 25,
+        "MinStock": 9
+    },
+    {
+        "ID": 35900,
+        "Price": 15,
+        "Name": "ChipsSal",
+        "Category": "Frituras",
+        "Stock": 12,
+        "MaxStock": 18,
+        "MinStock": 9
+    },
+   {
+        "ID": 96256,
+        "Price": 15,
+        "Name": "ChipsFuego",
+        "Category": "Frituras",
+        "Stock": 10,
+        "MaxStock": 30,
+        "MinStock": 9
+    },
+    {
+        "ID": 32465,
+        "Price": 15,
+        "Name": "Takis",
+        "Category": "Frituras",
+        "Stock": 11,
+        "MaxStock": 30,
+        "MinStock": 9
+    },
+    {
+        "ID": 47231,
+        "Price": 15,
+        "Name": "TakisFuego",
+        "Category": "Frituras",
+        "Stock": 10,
+        "MaxStock": 35,
+        "MinStock": 9
+    },
+    {
+        "ID": 90139,
+        "Price": 15,
+        "Name": "TakisSbrava",
+        "Category": "Frituras",
+        "Stock": 9,
+        "MaxStock": 20,
+        "MinStock": 9
+    },
+    {
+        "ID": 30126,
+        "Price": 14,
+        "Name": "Runners",
+        "Category": "Frituras",
+        "Stock": 10,
+        "MaxStock": 30,
+        "MinStock": 9
+    },
+    {
+        "ID": 96026,
+        "Price": 13,
+        "Name": "Chipotles",
+        "Category": "Frituras",
+        "Stock": 9,
+        "MaxStock": 15,
+        "MinStock": 9
+    },
+    {
+        "ID": 67620,
+        "Price": 14,
+        "Name": "Toreadas",
+        "Category": "Frituras",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 9
+    },
+    {
+        "ID": 39462,
+        "Price": 15,
+        "Name": "HotNuts",
+        "Category": "Cacahuates",
+        "Stock": 8,
+        "MaxStock": 15,
+        "MinStock": 3
+    },
+    {
+        "ID": 27507,
+        "Price": 15,
+        "Name": "HotNutsFuego",
+        "Category": "Cacahuates",
+        "Stock": 9,
+        "MaxStock": 20,
+        "MinStock": 3
+    },
+   {
+        "ID": 65380,
+        "Price": 15,
+        "Name": "Kacang",
+        "Category": "Cacahuates",
+        "Stock": 8,
+        "MaxStock": 15,
+        "MinStock": 4
+    },
+    {
+        "ID": 27398,
+        "Price": 15,
+        "Name": "KacangFlamin",
+        "Category": "Cacahuates",
+        "Stock": 5,
+        "MaxStock": 18,
+        "MinStock": 4
+    },
+    {
+        "ID": 54129,
+        "Price": 15,
+        "Name": "KacangHabanero",
+        "Category": "Cacahuates",
+        "Stock": 6,
+        "MaxStock": 18,
+        "MinStock": 4
+    },
+    {
+        "ID": 98463,
+        "Price": 15,
+        "Name": "KacangInco",
+        "Category": "Cacahuates",
+        "Stock": 10,
+        "MaxStock": 12,
+        "MinStock": 4
+    },
+    {
+        "ID": 90706,
+        "Price": 16,
+        "Name": "Snikers",
+        "Category": "Dulces",
+        "Stock": 5,
+        "MaxStock": 10,
+        "MinStock": 3
+    },
+    {
+        "ID": 94107,
+        "Price": 16,
+        "Name": "MilkyWay",
+        "Category": "Dulces",
+        "Stock": 4,
+        "MaxStock": 10,
+        "MinStock": 3
+    },
+    {
+        "ID": 57795,
+        "Price": 10,
+        "Name": "Lucas",
+        "Category": "Dulces",
+        "Stock": 5,
+        "MaxStock": 10,
+        "MinStock": 3
+    },
+    {
+        "ID": 80945,
+        "Price": 13,
+        "Name": "Skwinkles",
+        "Category": "Dulces",
+        "Stock": 7,
+        "MaxStock": 10,
+        "MinStock": 2
+    },
+    {
+        "ID": 40919,
+        "Price": 17,
+        "Name": "Nito",
+        "Category": "Pan",
+        "Stock": 3,
+        "MaxStock": 10,
+        "MinStock": 2
+    },
+    {
+        "ID": 76243,
+        "Price": 15,
+        "Name": "Donitas",
+        "Category": "Pan",
+        "Stock": 5,
+        "MaxStock": 12,
+        "MinStock": 3
+    },
+    {
+        "ID": 54999,
+        "Price": 16,
+        "Name": "Magdalenas",
+        "Category": "Pan",
+        "Stock": 7,
+        "MaxStock": 10,
+        "MinStock": 5
+    },
+    {
+        "ID": 31274,
+        "Price": 22,
+        "Name": "Panque",
+        "Category": "Pan",
+        "Stock": 5,
+        "MaxStock": 7,
+        "MinStock": 2
+    },
+    {
+        "ID": 31274,
+        "Price": 22,
+        "Name": "PanqueChocolate",
+        "Category": "Pan",
+        "Stock": 3,
+        "MaxStock": 7,
+        "MinStock": 2
+    },
+    {
+        "ID": 31274,
+        "Price": 22,
+        "Name": "PanqueNuez",
+        "Category": "Pan",
+        "Stock": 4,
+        "MaxStock": 7,
+        "MinStock": 2
+    },
+    {
+        "ID": 11095,
+        "Price": 11,
+        "Name": "LataChipotle",
+        "Category": "Enlatados",
+        "Stock": 5,
+        "MaxStock": 10,
+        "MinStock": 3
+    },
+    {
+        "ID": 15012,
+        "Price": 15,
+        "Name": "LataChampiñones",
+        "Category": "Enlatados",
+        "Stock": 7,
+        "MaxStock": 12,
+        "MinStock": 3
+    },
+    {
+        "ID": 51355,
+        "Price": 15,
+        "Name": "LataElote",
+        "Category": "Enlatados",
+        "Stock": 7,
+        "MaxStock": 9,
+        "MinStock": 3
+    },
+    {
+        "ID": 65863,
+        "Price": 23,
+        "Name": "LecheLala",
+        "Category": "Cocina",
+        "Stock": 10,
+        "MaxStock": 12,
+        "MinStock": 2
+    },
+    {
+        "ID": 52147,
+        "Price": 23,
+        "Name": "LecheZaragoza",
+        "Category": "Cocina",
+        "Stock": 10,
+        "MaxStock": 12,
+        "MinStock": 2
+    },
+    {
+        "ID": 13552,
+        "Price": 12,
+        "Name": "JumexMango",
+        "Category": "Jugos",
+        "Stock": 8,
+        "MaxStock": 15,
+        "MinStock": 4
+    },
+    {
+        "ID": 15356,
+        "Price": 12,
+        "Name": "JumexDurazno",
+        "Category": "Jugos",
+        "Stock": 8,
+        "MaxStock": 15,
+        "MinStock": 4
+    },
+    {
+        "ID": 48075,
+        "Price": 12,
+        "Name": "JumexManzana",
+        "Category": "Jugos",
+        "Stock": 8,
+        "MaxStock": 15,
+        "MinStock": 4
+    },
+    {
+        "ID": 15867,
+        "Price": 18,
+        "Name": "Mayonesa",
+        "Category": "Cocina",
+        "Stock": 8,
+        "MaxStock": 15,
+        "MinStock": 2
+    },
+    {
+        "ID": 25893,
+        "Price": 16,
+        "Name": "Catsup",
+        "Category": "Cocina",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 5
+    },
+    {
+        "ID": 88337,
+        "Price": 20,
+        "Name": "Ranch",
+        "Category": "Cocina",
+        "Stock": 4,
+        "MaxStock": 10,
+        "MinStock": 1
+    },
+    {
+        "ID": 57578,
+        "Price": 20,
+        "Name": "Aceite",
+        "Category": "Cocina",
+        "Stock": 7,
+        "MaxStock": 15,
+        "MinStock": 3
+    },
+    {
+        "ID": 67303,
+        "Price": 8,
+        "Name": "PapelHigienico",
+        "Category": "Hogar",
+        "Stock": 10,
+        "MaxStock": 35,
+        "MinStock": 4
+    },
+    {
+        "ID": 52094,
+        "Price": 20,
+        "Name": "Pinol",
+        "Category": "Hogar",
+        "Stock": 3,
+        "MaxStock": 10,
+        "MinStock": 1
+    },
+    {
+        "ID": 29905,
+        "Price": 22,
+        "Name": "Suavitel",
+        "Category": "Hogar",
+        "Stock": 7,
+        "MaxStock": 20,
+        "MinStock": 5
+    },
+    {
+        "ID": 15562,
+        "Price": 12,
+        "Name": "JabonZote",
+        "Category": "Hogar",
+        "Stock": 10,
+        "MaxStock": 20,
+        "MinStock": 5
+    },
+    {
+        "ID": 24191,
+        "Price": 33,
+        "Name": "Zucaritas",
+        "Category": "Cereales",
+        "Stock": 8,
+        "MaxStock": 12,
+        "MinStock": 3
+    },
+    {
+        "ID": 90835,
+        "Price": 33,
+        "Name": "FrootLoops",
+        "Category": "Cereales",
+        "Stock": 8,
+        "MaxStock": 12,
+        "MinStock": 3
+    },
+    {
+        "ID": 35809,
+        "Price": 33,
+        "Name": "Trix",
+        "Category": "Cereales",
+        "Stock": 8,
+        "MaxStock": 12,
+        "MinStock": 3
+    },
+    {
+        "ID": 56791,
+        "Price": 33,
+        "Name": "CornPops",
+        "Category": "Cereales",
+        "Stock": 8,
+        "MaxStock": 12,
+        "MinStock": 3
+    },
+    {
+        "ID": 44020,
+        "Price": 11,
+        "Name": "Valentina",
+        "Category": "Salsas",
+        "Stock": 15,
+        "MaxStock": 30,
+        "MinStock": 7
+    }
+]
